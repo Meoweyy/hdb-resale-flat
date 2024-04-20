@@ -36,26 +36,24 @@ After analysing all 3 models, it was evident that the Random Forrest Regressor i
 - https://scikit-learn.org/stable/
 - Linear regression:
 - https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
-* Tuning hyperparameters:
-- https://towardsdatascience.com/how-to-tune-a-decision-treef03721801680#:~:text=The%20theoretical%20maximum%20depth%20a,one%20big%20reason%20being%20overfitting.
-* Gridsearch:
+- Tuning hyperparameters:
+- https://towardsdatascience.com/how-to-tune-a-decision-tree-f03721801680#:~:text=The%20theoretical%20maximum%20depth%20a,one%20big%20reason%20being%20overfitting.
+- Gridsearch:
 - https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
-* Decision Tree Regressor:
+- Decision Tree Regressor:
 - https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html
-* Dtreeviz:
+- Dtreeviz:
 - https://github.com/parrt/dtreeviz/blob/master/README.md
-* Installing python packages temporarily in Jupyter:
+- Installing python packages temporarily in Jupyter:
 - https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/
 
-* Random Forest Regressor:
+- Random Forest Regressor:
 - https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
 - https://towardsdatascience.com/improving-random-forest-in-python-part-1-893916666cd
 - https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74
 
-
-
-* Random Forest Improvements:
+- Random Forest Improvements:
 - https://neptune.ai/blog/random-forest-regression-when-does-it-fail-and-why
-* The Elements of Statistical learning: 
+- The Elements of Statistical learning: 
 - https://hastie.su.domains/Papers/ESLII.pd
 
