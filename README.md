@@ -13,12 +13,14 @@ The following python project consists of:
 
 # Problem Definition:
 How can we predict the prices of resale flat to help people decide if they want buy a resale flat? 
-Variables used to analyse:
-a. Location (North, South, East, West, Central)
-b. Storey range (Upper/Lower)
-c. Flat Type (1 Room...5 Room, Exec. Apt)
-d. Floor Area
-e. Remaining Lease
+
+# Variables used to analyse:
+- Location (North, South, East, West, Central)
+- Storey range (Upper/Lower)
+- Flat Type (1 Room...5 Room, Exec. Apt)
+- Floor Area
+- Remaining Lease
+
    
 
 # Models used:
