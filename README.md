@@ -31,7 +31,14 @@ How can we predict the prices of resale flat to help people decide if they want 
 # Conclusion
 After analysing all 3 models, it was evident that the Random Forrest Regressor is the best model in predicting Resale Flat Prices. This is because it has the highest mean squared error amongst the 3 models. 
 
-#References:
+# Learning Points
+1. Regression models to solve regression problem with supervised data
+2. Tuning hyperparameters using Gridsearch and its nuances
+3. Using new APIs for model display
+4. Using appropriate measures for accuracy in Gridsearch
+5. 
+
+# References:
 - Generic references to code parameters, plotting and EDA:
   - https://scikit-learn.org/stable/
 - Linear regression:
