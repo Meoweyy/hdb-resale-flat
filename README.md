@@ -7,7 +7,7 @@ The following python project consists of:
 4. Conclusion
 
 # Contributors:
-  - @shamz-10: EDA,m Data Cleaning, Linear Regression
+  - @shamz-10: EDA, Data Cleaning, Linear Regression
   - @Maaxxx002: Decision Tree Regressor
   - @meoweyyy: Random Tree Regressor
 
