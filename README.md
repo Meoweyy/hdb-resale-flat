@@ -9,7 +9,7 @@ The following python project consists of:
 # Contributors:
   - @shamz-10: EDA,m Data Cleaning, Linear Regression
   - @Maaxxx002: Decision Tree Regressor
-  - Ethan: Random Tree Regressor
+  - @meoweyyy: Random Tree Regressor
 
 # Problem Definition:
 How can we predict the prices of resale flat to help people decide if they want buy a resale flat? 
