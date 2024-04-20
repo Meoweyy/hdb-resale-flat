@@ -9,7 +9,7 @@ The following python project consists of:
 # Contributors:
   - @shamz-10: EDA, Data Cleaning, Linear Regression
   - @Maaxxx002: Decision Tree Regressor
-  - @meoweyyy: Random Tree Regressor
+  - @meoweyy: Random Tree Regressor
 
 # Problem Definition:
 How can we predict the prices of resale flat to help people decide if they want buy a resale flat? 
@@ -29,5 +29,4 @@ How can we predict the prices of resale flat to help people decide if they want 
 - Random Tree Regressor
 
 # Conclusion
-After analysing all 3 models, it was evident that the Random Forrest Regressor is the best model in predicting Resale Flat Prices. This is because the adjusted R^2 for it is the highest amongst the 3 models. 
-Furthermore
+After analysing all 3 models, it was evident that the Random Forrest Regressor is the best model in predicting Resale Flat Prices. This is because it has the highest mean squared error amongst the 3 models. 
