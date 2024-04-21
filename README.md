@@ -40,6 +40,9 @@ After analysing all 3 models, it was evident that the Random Forest Regressor is
 5. Using appropriate measures for accuracy in Gridsearch
 6. Comparing goodness of fit factors across the different models
 
+# To note:
+PLease download the python file to view it in the JupyterNotebook Environment
+
 # References:
 - Generic references to code parameters, plotting and EDA:
   - https://scikit-learn.org/stable/
