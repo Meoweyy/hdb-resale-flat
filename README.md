@@ -3,7 +3,7 @@ This is a mini project for SC1015 where our group decided to analyse and predict
 The following python project consists of:
 1. Exploratory Data Analysis
 2. Data Cleaning
-3. 3 Machine Learning Models
+3. Machine Learning Models
 4. Conclusion
 
 # Contributors:
@@ -22,7 +22,7 @@ How can we predict the prices of resale flat to help people decide if they want 
 - Remaining Lease
 
    
-# Models used:
+# Machine Learning Models used:
 - Linear Regression
 - Decision Tree Regressor
 - Random Tree Regressor
